@@ -1,5 +1,5 @@
 // Write your solution here!
 
-function append(array){
-  array.append('Odie')
+function append(name){
+  array.append(name)
 }
