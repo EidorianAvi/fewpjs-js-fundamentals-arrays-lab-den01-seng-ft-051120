@@ -1,3 +1,4 @@
 // Write your solution here!
 
-let append = 
+const append = ["Milo", "Otis", "Garfield"]
+append.push("Odie")
