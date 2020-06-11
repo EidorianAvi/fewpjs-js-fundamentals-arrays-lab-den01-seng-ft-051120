@@ -4,4 +4,4 @@ const append = ["Milo", "Otis", "Garfield"]
 append.push("Odie")
 
 const prepend = ["Milo", "Otis", "Garfield"]
-append.shift("Odie")
+prepend.shift("Odie")
