@@ -1,4 +1,5 @@
 // Write your solution here!
 
-def append
-end
+function append(array){
+  
+}
